@@ -18,6 +18,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Locale;
 
+// comment
 public class MainActivity extends Activity implements LocationListener, TextToSpeech.OnInitListener {
 
     private LocationManager locationManager;
@@ -415,6 +416,7 @@ public class MainActivity extends Activity implements LocationListener, TextToSp
                 //System.out.println("Provider " + provider + " has been selected.");
                 onLocationChanged(location);
             } else {
+
 ////                speakWords("Location not available");
 //                locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 //
