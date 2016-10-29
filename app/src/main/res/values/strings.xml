@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Insight - Navigation Based Model</string>
+    <string name="title_activity_walking_direction">WalkingDirection</string>
+</resources>
