@@ -19,6 +19,7 @@ import java.util.List;
 import java.util.Locale;
 
 // comment
+// second comment
 public class MainActivity extends Activity implements LocationListener, TextToSpeech.OnInitListener {
 
     private LocationManager locationManager;
